@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "rut": "12345678-9",
+      "email": "juan.perez@example.com",
+      "password": "hashedpassword123",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "nombre": "María López",
+      "rut": "98765432-1",
+      "email": "maria.lopez@example.com",
+      "password": "hashedpassword456",
+      "isActive": false
+    },
+    {
+      "id": "5476",
+      "nombre": "Testeo",
+      "rut": "123912391239",
+      "email": "correotest@gmail.com",
+      "password": "asdasdasdasd123123",
+      "isActive": true
+    }
+  ]
+}
